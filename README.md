@@ -7,4 +7,5 @@ BankAccount
 ├── deposit()       ← controls modification
 │
 └── show_balance()  ← controls access
+---
 ```
